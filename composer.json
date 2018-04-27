@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "DesignPatterns\\": "DesignPatterns"
+        }
+    },
+
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    }
+}
